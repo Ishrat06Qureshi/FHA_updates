@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "FHA_mobile_app",
+    "slug": "FHA_mobile_app",
+    "privacy": "public",
+    "sdkVersion": "33.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/fastening.png",
+    "splash": {
+      "image": "./assets/fastening.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "FHA.IOS.VERSION"
+    },
+    "android": {
+      "package": "FHA.ANDRIOD.VERSION"
+    }
+    
+  }
+}
+
+
+
