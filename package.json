@@ -36,7 +36,7 @@
     "redux-thunk": "^2.3.0",
     "tcomb-form-native": "0.6.20",
     "validate.js": "0.13.1",
-    "validator": "11.0.0",
+    "validator": "13.7.0",
     "woocommerce-api": "1.4.2"
   },
   "devDependencies": {
